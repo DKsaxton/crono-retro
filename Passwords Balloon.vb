@@ -1,0 +1,49 @@
+Passwords
+
+Upseller{
+    Nome:tm@balloonkids.com.br
+    Senha:Vivikids01@
+}
+
+Canva{
+    Nome:talitapetri@hotmail.com
+    Senha:Marcos36@
+}
+
+Balloon{
+    Shoppe[
+        Nome:balloon_kids
+        Senha:@Livia@2023@
+    ]
+    Shein[
+        Nome:GS1124908
+        Senha:Livia2023@
+    ]
+    Kwai[
+        Nome:tm@balloonkids.com.br
+        Senha:balloon.2025
+    ]
+    Tiktok[
+        Nome:tm@balloonkids.com.br
+        Senha:Balloon@1234
+    ]
+    Temu[
+        Nome:tm@balloonkids.com.br
+        Senha:Balloon@1234
+    ]
+}
+
+Vivi{
+    shoppe[
+        Nome:vivikids720
+        Senha:Talitalivia01
+    ]
+    shein[
+        Nome:GS4502896
+        Senha:Talitalivia01
+    ]
+    kwai[
+        Nome:talitapetri@hotmail.com
+        Senha:talitapetri.2025
+    ]
+}
